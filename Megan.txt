@@ -1,1 +1,36 @@
-cd\Users\Megan 
+Last login: Tue Jan 11 18:02:47 on ttys000
+meganmccormick@Megans-MacBook-Pro ~ % ls
+Applications
+Creative Cloud Files
+Creative Cloud Files mgm1785@g.rit.edu 0e410907cffdef8150559e2e088f53d1f00bc572269a7615f895ba4d94348777
+Creative Cloud Files mgm1785@rit.edu 5634ce94b566612aeeea526148aee3741ab0110c5bdd01109d64eca27a8dd843
+Desktop
+Documents
+Downloads
+Library
+Movies
+Music
+Pictures
+Public
+meganmccormick@Megans-MacBook-Pro ~ % cd Documents
+meganmccormick@Megans-MacBook-Pro Documents % ls
+GitHub			SoftDev1
+Nicepage		Softdev1Unit01Day01
+meganmccormick@Megans-MacBook-Pro Documents % cd SoftDev1
+meganmccormick@Megans-MacBook-Pro SoftDev1 % ls
+Unit01
+meganmccormick@Megans-MacBook-Pro SoftDev1 % cd Unit01
+meganmccormick@Megans-MacBook-Pro Unit01 % ls
+file01.txt	file02.txt
+meganmccormick@Megans-MacBook-Pro Unit01 % Touch file01.txt
+meganmccormick@Megans-MacBook-Pro Unit01 % Touch file02.txt
+meganmccormick@Megans-MacBook-Pro Unit01 % mkdir Assignment01
+meganmccormick@Megans-MacBook-Pro Unit01 % ls
+Assignment01	file01.txt	file02.txt
+meganmccormick@Megans-MacBook-Pro Unit01 % mkdir Assignment01_directory
+meganmccormick@Megans-MacBook-Pro Unit01 % cd Assignment01_directory 
+meganmccormick@Megans-MacBook-Pro Assignment01_directory % mkdir Megan
+meganmccormick@Megans-MacBook-Pro Assignment01_directory % mv file01.txt
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+meganmccormick@Megans-MacBook-Pro Assignment01_directory % 
